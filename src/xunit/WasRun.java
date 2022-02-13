@@ -1,2 +1,8 @@
-package xunit;public class WasRun {
+package xunit;
+
+public class WasRun {
+    public boolean wasRun;
+
+    public void testMethod() {
+    }
 }
